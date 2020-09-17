@@ -62,7 +62,7 @@ export const LinkRegister = styled.a`
 
 export const ImageLogin = styled.div `
   background-image: url(${imageFinances});
-  height: 650px;
+  height: 500px;
   width: 515px;
   margin-top: 20%;
 `;
